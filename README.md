@@ -14,4 +14,4 @@
 
 ### Contact Me
 
-+ yylin233.cs09@nycu.edu.tw
++ email: yylin233.cs09@nycu.edu.tw
